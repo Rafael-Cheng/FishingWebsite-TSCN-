@@ -1,0 +1,179 @@
+p{
+    color:black;
+    line-height:1.0em;
+}
+
+.color{
+    color:aqua;
+}
+
+.darkorange{
+    color:darkorange;
+}
+
+.largefont{
+    font-size:30px;
+}	
+
+.font{
+    font-size:70px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:red;
+}
+
+.bold{
+    font-weight:bold;
+}
+
+.cursive{
+    font-family:cursive;
+}
+
+.lnht{
+    line-height:2.6em;
+}
+
+a{ 
+    text-decoration:none;
+}
+
+a:link{
+    color:blueviolet;
+}
+
+a:hover{
+    color:maroon;
+}
+
+a:visited{
+    color:dimgray;
+}
+
+
+body{												
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;		
+    background-image: url(../images/background.jpg);
+    background-color:rgba(174, 171, 171, 0.13);	
+    background-repeat:no-repeat;
+    }
+            
+h1{   
+    font-size:108px;   
+    font-weight:bolder;        
+    color:rgba(255, 10, 63, 0.97);            
+    }
+          
+h2{                                
+    color:darkmagenta;                
+    border-top: thin dotted blue;            
+    }
+
+#all{
+    position:absolute;			
+    padding: 10px 10px 10px 10px;
+    margin-left: 15%;				
+    margin-right: 15%;	
+}
+
+#bgp{
+    height:300px;
+}
+
+#logo1{
+    float:left;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#logo2{
+    float:right;
+    margin-left:auto;
+    margin-right:auto;
+}
+#logo3{
+    position:absolute;
+    height:50px;
+    float:right;
+    margin-left:300px;
+    margin-top:500px
+}
+
+#enter{
+    margin-top:100px;
+    margin-left:20px;
+}
+
+#table{
+    margin-top:500px;
+    
+}
+
+#intro{
+    height:400px;
+    background-color:rgba(73, 53, 245, 0.13);
+}
+
+#backtop{
+    float:right;
+}
+
+#oWebsites{
+    border-width:thin;
+    background-color:rgba(12, 243, 17, 0.13);    
+}
+
+#fWebsites{
+    border-width:thin;
+    background-color:rgba(171, 13, 250, 0.13);    
+}
+
+#albums{
+    border-width:thin;
+    background-color:rgba(59, 248, 248, 0.13);	
+}
+
+#vresources{
+    background-color:rgba(253, 255, 10, 0.13);
+}
+
+#other{
+    background-color:rgba(248, 94, 208, 0.13);
+}
+
+#bottom{
+    height:50px;
+    width:500px;
+    text-align:center;
+    margin:auto;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+}
+
+#append{
+    width:1024px;
+    height:200px;
+    margin-left:10px;
+}
+
+#bg{
+    width:350px;
+    height:500px;
+}
+
+#bgm{
+    width:10px;
+    height:100px;
+    float:left;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#bgv{
+    width:10px;
+    height:10px;
+    float:right;
+    margin-left:auto;
+    margin-right:auto;
+}

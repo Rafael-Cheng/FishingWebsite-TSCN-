@@ -1,0 +1,135 @@
+p{
+    color:black;
+    line-height:1.0em;
+}
+
+.darkorange{
+    color:darkorange;
+}
+
+.largefont{
+    font-size:30px;
+}	
+
+.font{
+    font-size:70px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:red;
+}
+
+.bold{
+    font-weight:bold;
+}
+
+.cursive{
+    font-family:cursive;
+}
+
+.lnht{
+    line-height:2.6em;
+}
+
+a{ 
+    text-decoration:none;
+}
+
+a:link{
+    color:blueviolet;
+}
+
+a:hover{
+    color:maroon;
+}
+
+a:visited{
+    color:dimgray;
+}
+
+
+body{												
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;		
+    background-image: url(images/background.jpg);
+    background-repeat:no-repeat;
+    }
+            
+h1{   
+    font-size:108px;   
+    font-weight:bolder;        
+    color:rgba(255, 10, 63, 0.97);            
+    }
+          
+h2{                                
+    color:darkmagenta;                
+    border-top: thin dotted blue;            
+    }
+
+#all{
+    position:absolute;			
+    padding: 10px 10px 10px 10px;
+    margin-left: 15%;				
+    margin-right: 15%;	
+}
+
+#bgp{
+    height:300px;
+}
+
+#logo1{
+    float:left;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#logo2{
+    float:right;
+    margin-left:auto;
+    margin-right:auto;
+}
+#logo3{
+    position:absolute;
+    float:right;
+    height:50px;
+    margin-left:300px;
+    margin-top:200px
+}
+
+#enter{
+    margin-top:100px;
+    margin-left:20px;
+}
+
+#intro{
+    height:400px;
+}
+
+#websites{
+    border-width:thin;
+    background-color:rgba(203, 104, 248, 0.13);	
+}
+
+#albums{
+    border-width:thin;
+    background-color:rgba(59, 248, 248, 0.13);	
+}
+
+#vresources{
+    background-color:rgba(250, 252, 11, 0.13);
+}
+
+
+#bottom{
+    height:50px;
+    width:500px;
+    text-align:center;
+    margin:auto;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+}
+
+#append{
+    width:1024px;
+    height:200px;
+    margin-left:10px;
+}
